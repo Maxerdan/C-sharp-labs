@@ -1,0 +1,10 @@
+C:\Users\Viral\source\repos\DO5\DO5\bin\Debug\DO5.exe.config
+C:\Users\Viral\source\repos\DO5\DO5\bin\Debug\DO5.exe
+C:\Users\Viral\source\repos\DO5\DO5\bin\Debug\DO5.pdb
+C:\Users\Viral\source\repos\DO5\DO5\obj\Debug\DO5.csprojAssemblyReference.cache
+C:\Users\Viral\source\repos\DO5\DO5\obj\Debug\DO5.Form1.resources
+C:\Users\Viral\source\repos\DO5\DO5\obj\Debug\DO5.Properties.Resources.resources
+C:\Users\Viral\source\repos\DO5\DO5\obj\Debug\DO5.csproj.GenerateResource.cache
+C:\Users\Viral\source\repos\DO5\DO5\obj\Debug\DO5.csproj.CoreCompileInputs.cache
+C:\Users\Viral\source\repos\DO5\DO5\obj\Debug\DO5.exe
+C:\Users\Viral\source\repos\DO5\DO5\obj\Debug\DO5.pdb

@@ -1,0 +1,10 @@
+C:\Users\MrViral\source\repos\Lab3 - Veterinary Clinic\Lab3 - Veterinary Clinic\bin\Debug\Lab3 - Veterinary Clinic.exe.config
+C:\Users\MrViral\source\repos\Lab3 - Veterinary Clinic\Lab3 - Veterinary Clinic\bin\Debug\Lab3 - Veterinary Clinic.exe
+C:\Users\MrViral\source\repos\Lab3 - Veterinary Clinic\Lab3 - Veterinary Clinic\bin\Debug\Lab3 - Veterinary Clinic.pdb
+C:\Users\MrViral\source\repos\Lab3 - Veterinary Clinic\Lab3 - Veterinary Clinic\obj\Debug\Lab3 - Veterinary Clinic.csprojAssemblyReference.cache
+C:\Users\MrViral\source\repos\Lab3 - Veterinary Clinic\Lab3 - Veterinary Clinic\obj\Debug\Lab3___Veterinary_Clinic.Form1.resources
+C:\Users\MrViral\source\repos\Lab3 - Veterinary Clinic\Lab3 - Veterinary Clinic\obj\Debug\Lab3___Veterinary_Clinic.Properties.Resources.resources
+C:\Users\MrViral\source\repos\Lab3 - Veterinary Clinic\Lab3 - Veterinary Clinic\obj\Debug\Lab3 - Veterinary Clinic.csproj.GenerateResource.cache
+C:\Users\MrViral\source\repos\Lab3 - Veterinary Clinic\Lab3 - Veterinary Clinic\obj\Debug\Lab3 - Veterinary Clinic.csproj.CoreCompileInputs.cache
+C:\Users\MrViral\source\repos\Lab3 - Veterinary Clinic\Lab3 - Veterinary Clinic\obj\Debug\Lab3 - Veterinary Clinic.exe
+C:\Users\MrViral\source\repos\Lab3 - Veterinary Clinic\Lab3 - Veterinary Clinic\obj\Debug\Lab3 - Veterinary Clinic.pdb
